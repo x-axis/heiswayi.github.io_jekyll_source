@@ -9,7 +9,7 @@ Introducing **Thinkspace**, just another minimalist Jekyll theme that focuses on
 
 [**Demo**](http://heiswayi.github.io/thinkspace/) / [**GitHub**](https://github.com/heiswayi/thinkspace)
 
-### Sreenshot
+### Screenshot
 
 ![Screenshot](http://i.imgur.com/WHcnbYF.png)
 
