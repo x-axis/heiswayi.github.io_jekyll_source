@@ -22,8 +22,8 @@ google_analytics: UA-79509497-1
 
 # Build settings
 # ==============
-# source: ./
-# destination: ../x-axis.github.io/
+source: ./
+destination: ../x-axis.github.io/
 
 markdown: kramdown
 highlighter: rouge
