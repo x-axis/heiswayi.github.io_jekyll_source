@@ -1,15 +1,15 @@
 # Site settings
 # =============
-title: "kg's log." 
+title: "ken's log." 
 tagline: What even is a tagline? 
-email: wendirful@gmail.com 
+email:  
 description: "Yes? No?" 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://x-axis.github.io" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 author:
   name: Keenan Gao 
-  email: wendirful@gmail.com
+  email: gaoxx867@umn.edu 
   url: http://x-axis.github.io/about.html
 
 github:
@@ -28,6 +28,6 @@ destination: ../x-axis.github.io/
 markdown: kramdown
 highlighter: rouge
 
-exclude: [README.md, LICENSE.md]
+exclude: [README.md, LICENSE.md, Gemfile, Gemfile.lock]
 permalink: none
 timezone: America/Chicago
