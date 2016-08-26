@@ -1,6 +1,6 @@
 # Site settings
 # =============
-title: "ken's log." 
+title: "keenan's log." 
 tagline: What even is a tagline? 
 email:  
 description: "Yes? No?" 
@@ -31,3 +31,20 @@ highlighter: rouge
 exclude: [README.md, LICENSE.md, Gemfile, Gemfile.lock]
 permalink: none
 timezone: America/Chicago
+
+gems:
+  - jekyll-assets
+
+assets:
+  autowrite: true
+  prefix: "/images"
+  digest: true
+  assets:
+    - "*.png"
+ 
+  dirname: images
+  baseurl: /images/
+  sources:
+    - _images/
+
+
