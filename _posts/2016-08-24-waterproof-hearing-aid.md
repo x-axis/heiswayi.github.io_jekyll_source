@@ -42,7 +42,7 @@ Research waterproof ratings. Apparently they are on an "IPX" scale from 0 (zero 
 | 7     | Immersion up to 1 meter for 30 minutes               |
 | 8     | Continuous immersion up to 3 meters                  |
 
-### Preliminary Research
+t ### Preliminary Research
 
 Bluetooth is a wireless technology standard that operates on ultra high frequency radio waves. In essence, it transmits signals through electromagnetic radiation but things get tricky when moving from air to water. Signal loss can occur throughs:
 
@@ -80,7 +80,7 @@ Today, I spent a lot of time looking at forums for R/C submarines and... I am ac
 
 I'm still hung up on this underwater bluetooth range question. What is it REALLY? I have about two weeks left of summer vacation and I PROMISED myself I wouldn't do any math, but here we go...
 
-Radio frequency power is expressed in decibels. We can calculate the maximum distance as:
+Radio frequency power is expressed in decibels. We can [calculate the maximum distance](https://en.wikipedia.org/wiki/Free-space_path_loss) as:
 
 $$ \begin{align} 
 \text{FSPL}_{dB} &= 10\log_{10}\left(\left( \frac{4\pi d}{c}^2\right)\right) \\
