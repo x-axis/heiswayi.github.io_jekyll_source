@@ -41,7 +41,8 @@ assets:
   digest: true
   assets:
     - "*.png"
- 
+    - "*.gif"
+    - "*.jpg" 
   dirname: images
   baseurl: /images/
   sources:

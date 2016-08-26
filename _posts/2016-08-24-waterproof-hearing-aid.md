@@ -17,7 +17,7 @@ Got fitted with [Resound Enzo<sup>2</sup>](http://www.resound.com/en-US/hearing-
 Went tubing with my friends! I had taken out my hearing aids for tubing in a lake before, but this trip was a 3-hour trip down a lazy river. We would essentially be chilling and talking the entire time. I didn't want to be left out so I wore my old pair from high school. I figured that if something happened to them, I'd still have my pair from undergrad and the ReSounds. The trip turned out to be a blast, my friends tied up our tubes together and blasted music while talking. 
 
 <center>
-{% img river-tubing %} 
+![River tubing photo](/images/river-tubing.jpg)
 *Image from Trinity River Vision Authority.*
 
 </center>
@@ -52,7 +52,7 @@ Bluetooth is a wireless technology standard that operates on ultra high frequenc
 I think the first case shouldn't be an issue since my headphones would already be in the water. That leaves the second case. Water's high permittivity reduces any electric field around it, which is problematic since electromagnetic waves propagate via disturbances in the electric (and magnetic) fields. 
 
 <center>
-{% img em-propagation.gif %}
+![Visual representation of electromagnetic propagation](/images/em-propagation.gif)
 *Image from [Physics Classroom](http://www.physicsclassroom.com/mmedia/waves/em.cfm)* 
 </center>
 
@@ -102,7 +102,7 @@ $$d = 10^{\frac{1}{20}\left(FSPL - 20\log(f) - 32.45\right)}$$
 
 
 [Jiang and Georgakopoulos](http://file.scirp.org/pdf/JEMAA20110700001_18390291.pdf) look at electromagnetic wave propagation in fresh water. The graphs below shows the propagation and transmission loss at varying depths as frequency increases. 
-{% img propagation-loss.png %} {% img transmission-loss.png %}
+![Figure of propagation loss in water](/images/propagation-loss.png)
 *Figures from [Jiang and Georgakopoulos](http://file.scirp.org/pdf/JEMAA20110700001_18390291.pdf), page 263*
 
 Bluetooth is around 2.4 GHz, which is 

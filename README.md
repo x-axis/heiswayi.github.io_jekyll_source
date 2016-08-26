@@ -24,4 +24,4 @@ Lorem ipsum dolor sit amet, commodo diceret interpretaris mel ex, fuisset verter
 `_post/` and `images/` folders are copyrights of **Keenan Gao** (that's me). You may not reuse anything therein without my permission. Everything else is [MIT licensed](LICENSE.md), unless otherwise stated.
 
 ---
-Handcrafted by [Heiswayi Nrird](http://heiswayi.github.io) with love.
+Site design handcrafted by [Heiswayi Nrird](http://heiswayi.github.io) with love.
