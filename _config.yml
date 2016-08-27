@@ -36,14 +36,14 @@ gems:
   - jekyll-assets
 
 assets:
-  autowrite: true
+  autowrite: true 
   prefix: "/images"
-  digest: true
+  digest: true 
   assets:
     - "*.png"
+    - "*.jpg"
     - "*.gif"
-    - "*.jpg" 
-  dirname: images
+  dirname: images 
   baseurl: /images/
   sources:
     - _images/
